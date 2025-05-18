@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "Aqua Bottle",
+    "volume_ml": 500,
+    "material": "Plastic",
+    "price_usd": 1.2,
+    "tags": ["eco-friendly", "lightweight", "daily use"],
+    "available_colors": ["blue", "green", "clear"],
+    "manufacturer": {
+      "name": "HydroWare Inc.",
+      "country": "USA",
+      "details": {
+        "founded": 2005,
+        "employee_count": 1200,
+        "certified": true
+      }
+    },
+    "stock_by_region": {
+      "US": 5000,
+      "EU": 3000,
+      "Asia": 8000
+    },
+    "specs": {
+      "bpa_free": true,
+      "insulated": false,
+      "weight_grams": 120,
+      "height_cm": 22
+    },
+    "reviews": [
+      {
+        "user": "waterlover92",
+        "rating": 4.5,
+        "comment": "Super lightweight and fits in my bike holder.",
+        "verified": true
+      },
+      {
+        "user": "dailyhiker",
+        "rating": 4.0,
+        "comment": "Cap could be tighter, but great value.",
+        "verified": false
+      }
+    ],
+    "release_date": "2023-05-10",
+    "created_at": "2023-04-30T13:45:00Z",
+    "images": {
+      "thumbnail": "https://example.com/images/aqua_bottle.png",
+      "gallery": [
+        "https://example.com/images/aqua_bottle_1.png",
+        "https://example.com/images/aqua_bottle_2.png"
+      ]
+    }
+  },
+
+  {
+    "id": 2,
+    "name": "Eco Steel",
+    "volume_ml": 750,
+    "material": "Stainless Steel",
+    "price_usd": 9.99,
+    "tags": ["premium", "hot and cold", "steel"],
+    "available_colors": ["silver", "black"],
+    "manufacturer": {
+      "name": "EcoHoldings",
+      "country": "Germany",
+      "details": {
+        "founded": 1999,
+        "employee_count": 500,
+        "certified": true
+      }
+    },
+    "stock_by_region": {
+      "US": 2000,
+      "EU": 4000,
+      "Asia": 1000
+    },
+    "specs": {
+      "bpa_free": true,
+      "insulated": true,
+      "weight_grams": 320,
+      "height_cm": 28
+    },
+    "reviews": [
+      {
+        "user": "teaenthusiast",
+        "rating": 5.0,
+        "comment": "Keeps my tea warm for 12 hours!",
+        "verified": true
+      }
+    ],
+    "release_date": "2022-11-20",
+    "created_at": "2022-11-01T10:00:00Z",
+    "images": {
+      "thumbnail": "https://example.com/images/eco_steel.png",
+      "gallery": [
+        "https://example.com/images/eco_steel_1.png"
+      ]
+    }
+  },
+
+  {
+    "id": 3,
+    "name": "Glass Hydrate",
+    "volume_ml": 1000,
+    "material": "Glass",
+    "price_usd": 5.5,
+    "tags": ["glass", "stylish", "eco"],
+    "available_colors": ["clear", "aqua"],
+    "manufacturer": {
+      "name": "PureGlass Co.",
+      "country": "Italy",
+      "details": {
+        "founded": 2010,
+        "employee_count": 300,
+        "certified": true
+      }
+    },
+    "stock_by_region": {
+      "US": 1500,
+      "EU": 3500,
+      "Asia": 2500
+    },
+    "specs": {
+      "bpa_free": true,
+      "insulated": false,
+      "weight_grams": 600,
+      "height_cm": 25
+    },
+    "reviews": [
+      {
+        "user": "ecoqueen",
+        "rating": 4.8,
+        "comment": "Feels classy, but breakable!",
+        "verified": true
+      }
+    ],
+    "release_date": "2023-01-15",
+    "created_at": "2023-01-01T08:30:00Z",
+    "images": {
+      "thumbnail": "https://example.com/images/glass_hydrate.png",
+      "gallery": []
+    }
+  }
+
+  
+]
